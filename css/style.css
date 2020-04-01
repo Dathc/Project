@@ -73,7 +73,6 @@
         text-decoration: none;
         color: #fff; }
     * .subheader_btn {
-      draggable: true;
       margin-top: 19px;
       width: 172px;
       height: 146px;
@@ -165,7 +164,7 @@
     margin: 0 auto;
     height: 24px;
     width: 112px;
-    padding: 5px 12px;
+    padding: 5px 120px;
     background-color: #000000;
     color: #ffffff;
     font-size: 11px;
