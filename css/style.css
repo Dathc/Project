@@ -34,7 +34,6 @@
       * .menu_item:last-child {
         border-right: none; }
   * .subheader {
-    src: url "..fonts/indieflower-regular";
     position: absolute;
     top: 50px;
     width: 100%;
@@ -45,11 +44,7 @@
       max-width: 100%;
       margin-top: 16px; }
     * .subheader_official {
-      font-family: indieflower-regular;
-      margin-top: 13px;
-      -webkit-margin-before: 10px;
-              margin-block-start: 10px;
-      margin-left: auto;
+      margin-top: 6px;
       opacity: 0.5;
       color: #ffffff;
       font-size: 13px;
@@ -111,7 +106,7 @@
       font-size: 36px;
       line-height: 36px;
       margin: 0;
-      margin-top: 41px;
+      margin-top: 22px;
       text-align: center; }
     * .promo_descr {
       color: #ffffff;
